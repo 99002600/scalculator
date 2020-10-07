@@ -54,6 +54,6 @@
 
 
 ## Github Details
-* https://github.com/99002463/calculator:
-* By:SANJAT CHAND
+* https://github.com/99002600/scalculator
+* By:Rahul Rauniyar
 
